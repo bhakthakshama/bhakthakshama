@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kshama Bhaktha</h1>
+<h1 align="center">Hi there👋, I'm Kshama Bhaktha</h1>
 <h3 align="center">A Passionate Developer : Exploring Frontend, Backend and Beyond!</h3>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
