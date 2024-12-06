@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Kshama Bhaktha</h1>
-<h3 align="center">A Passionate Developer : Exploring Frontend, Backend and Beyond!</h3>
+<h3 align="center">Aspiring Data Scientist with a focus on AI, Machine Learning, and Analytics !</h3>
 
 - 🌱 I’m currently learning **R Programming, Python**
 
